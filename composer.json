@@ -1,5 +1,5 @@
 {
-    "name": "jupeter/datacollector-algolia-search-bundle",
+    "name": "myjobcompany/datacollector-algolia-search-bundle",
     "type": "symfony-bundle",
     "description": "Data Collector for Symfony Algolia Search Bundle.",
     "license": "MIT",
